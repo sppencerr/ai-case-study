@@ -13,3 +13,10 @@ The company focuses on solving the problem of working with large amounts of Medi
 
 What makes them different is their simple, easy-to-use AI tools. They also use explainable AI (xAI), which shows clients how decisions are made by their systems. Their technology includes methods like Random Forest and Artificial Neural Networks to process data, and LIME to explain results.
 
+### Landscape
+HealthWorksAI works in the healthcare analytics field, focusing on Medicare Advantage. Over the past ten years, this field has seen more companies using AI and tools that explain how decisions are made.
+
+Some of their biggest competitors are ClearDATA and Carta Healthcare. However, HealthWorksAI stands out because they focus mainly on Medicare Advantage, which is a growing and important area in healthcare.
+
+
+
