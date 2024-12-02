@@ -1,4 +1,4 @@
-# AI-Case-Study
+
 By: Spencer Gerritsen
 
 
