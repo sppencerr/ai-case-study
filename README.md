@@ -1,7 +1,13 @@
 # AI-Case-Study
 By: Spencer Gerritsen
 
+
 ## HealthWorksAI: Simplifying Medicare Advantage
+
+**Overview:** Founded in 2019, HealthWorksAI empowers healthcare payors by simplifying Medicare Advantage data.  
+
+> "HealthWorksAI has transformed how payors approach Medicare data, improving both speed and accuracy." — [Healthcare Analytics Today](#)
+
 ### Overview and Origin
 Founded in 2019, HealthWorksAI aims to make Medicare Advantage data easier to interpret and use. The company’s mission is to empower healthcare payors with tools that support quicker and more informed decisions. While specific details about the founders and funding remain undisclosed, the organization focuses on innovation in the healthcare sector.
 
